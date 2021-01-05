@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgower75/typescript.git"
+  },
+  "keywords": [],
+  "author": "Belinda Gower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgower75/typescript/issues"
+  },
+  "homepage": "https://github.com/bgower75/typescript#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
